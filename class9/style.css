@@ -1,0 +1,50 @@
+body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    background-color: #f6f6f6;
+}
+.chitti-logo{
+	width: 10%;
+	position: absolute;
+}
+.chitti-bar{
+	background-color: #ffc93c;
+	height:70px;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	width: 100%;
+}
+h1{
+	font-family: "Montserrat-Bold";
+	font-size: 3rem;
+	color: #e9681b;
+}
+h2{
+	font-family: "Ubuntu";
+	font-size: 1.5rem;
+}
+.card-header{
+	background-color: #07689f;
+	color: #fff;
+}
+a{
+	color: #40a8c4;
+}
+
+
+
+
+@media (max-width: 1000px ) {
+	.chitti-logo{
+		width: 100px;
+	}
+
+	@media (max-width: 1000px){
+		.col-lg-4{
+			padding-bottom: 20px;
+		}
+	}

@@ -1,0 +1,21 @@
+.chitti-logo{
+	width: 10%;
+	position: absolute;
+}
+@media (max-width: 1000px ) {
+	.chitti-logo{
+		width: 100px;
+	}
+
+}
+.chitti-gif{
+	width: 20%;
+	align-items: center;
+}
+.item{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3rem;
+	text-align: center;
+	position: relative;
+	top: 100px;
+}
