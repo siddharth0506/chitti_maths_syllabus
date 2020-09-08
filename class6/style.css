@@ -52,24 +52,6 @@ a{
 		.col-lg-4{
 			padding-bottom: 20px;
 		}
-	}
-@media (min-width: 640px) {
-  html.font-size--s .menu__mobile {
-    display: none;
-  }
-}
-@media (min-width: 960px) {
-  html.font-size--m .menu__mobile {
-    display: none;
-  }
-}
-@media (min-width: 1280px) {
-  html.font-size--l .menu__mobile {
-    display: none;
-  }
-}
-@media (min-width: 2560px) {
-  html.font-size--xl .menu__mobile {
-    display: none;
+
   }
 }
